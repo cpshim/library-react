@@ -70,3 +70,7 @@ body{
       transform: scale(1.1);
   }
 }
+
+.new-book-form{
+  margin-top: 30px;
+}
